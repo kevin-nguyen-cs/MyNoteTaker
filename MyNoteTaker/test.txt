@@ -1,0 +1,6 @@
+file was empty!
+
+Original file contents were still saved.
+
+
+This is test.txt!

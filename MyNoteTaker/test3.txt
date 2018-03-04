@@ -1,0 +1,8 @@
+nothing here?
+
+
+That's because the reference in memory still points to the other text file (text.txt in this example).
+
+We have to be explicit on which file we look at in order to ensure the program is doing operations on the correct file!
+
+This file is called test3.txt!
