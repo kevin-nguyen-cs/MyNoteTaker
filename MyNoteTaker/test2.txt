@@ -1,9 +1,3 @@
 The purpose of this project is to allow users to read pdf files and take notes!
 
 Unfortunately, this program was originally designed by me on an older environment system. My new system has issues communicating with an old LabVIEW activeX control scheme especially since it's using labVIEW 2013. The old environment was a 32-bit system, but since I'm now using a 64-bit model, I've lost support for most of LabVIEW components that built in old environment. It is an easy fix by simply re-compiling on a newer environment!
-
-
-This video is just a sample of small and trivial project for utility purposes and demonstrations.
-
-
-Thanks for watching!
